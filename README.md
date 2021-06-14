@@ -1,9 +1,9 @@
 # Trivia Board 
-Trivia Board is a two-page React.js application where the user can test their knowledge in 4 different categories. The board have 16 question cards and user can click on any image to start the actual quiz. At the end of the game, give the user an overall trivia score. 
+Trivia Board is a two-page React.js application where the user can test their knowledge in 4 different categories. The board have 16 question cards and user can click on any question card to start the actual quiz. At the end of the game, the user will get an overall trivia score. 
 
 # Installation
 ```bash
-git clone
+git clone https://github.com/christinadeng-rogers/trivia-board-final.git
 npm install
 npm start
 ```
