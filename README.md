@@ -4,6 +4,7 @@ Trivia Board is a two-page React.js application where the user can test their kn
 # Installation
 ```bash
 git clone https://github.com/christinadeng-rogers/trivia-board-final.git
+cd trivia-board-final
 npm install
 npm start
 ```
